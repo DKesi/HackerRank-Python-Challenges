@@ -1,4 +1,4 @@
-''' SI
+## SI
 p = input('enter p value')
 n = input('enter n value')
 r = input('enter r value')
@@ -10,7 +10,7 @@ r = int(r)
 s = p*n*r//100
 print(s)
 
-if statement
+# if statement
 
 age = float(input('enter age'))
 if age >= 18:
@@ -32,7 +32,7 @@ elif marks >= 70:
 names = ["deep", "rajeev", "sandeep"]
 print(names[1])
 
-'''
+
 
 
 
